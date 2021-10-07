@@ -1,0 +1,7 @@
+development:
+  password: xxxxxxxx
+  theme_id: xxxxxxxx
+  store: STORE.myshopify.com
+  timeout: 60s
+  ignore_files:
+    - config/settings_data.json
